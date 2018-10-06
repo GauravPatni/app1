@@ -1,0 +1,14 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "description": "Node Server app on heroku with mongodb deployed on mLab",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gaurav patni",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.1.6"
+  }
+}
